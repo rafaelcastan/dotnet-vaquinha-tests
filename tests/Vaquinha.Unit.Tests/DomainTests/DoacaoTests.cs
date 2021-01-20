@@ -91,7 +91,6 @@ namespace Vaquinha.Unit.Tests.DomainTests
             var valido = doacao.Valido();
 
             // Assert
-            const bool EXCEDER_MAX_VALOR_DOACAO = true;
             valido.Should().BeFalse(because: "o campo Valor está inválido");
             doacao.ErrorMessages.Should().Contain("Valor mínimo de doação é de R$ 5,00");
             doacao.ErrorMessages.Should().HaveCount(1, because: "somente o campo Valor está inválido.");

@@ -1,0 +1,243 @@
+[33mcommit b87f2f7a4a7c88081c85466e4b19d2595f6274d7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: rafaelcastan <rc.castanheira190@gmail.com>
+Date:   Wed Jan 20 15:57:18 2021 -0300
+
+    Implement a new code test and refactor to work with it
+    
+    Implemented new test code to the option of pay a fee in the
+    donations page and refactored the code to work correctly with it
+
+[33mcommit 86fdf650fb95522bd0e90992e8e3440d67822931[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Wed May 13 18:13:12 2020 -0300
+
+    retirada polen
+
+[33mcommit e93d552121ab80b7879a92273f6c42dfbf84157f[m
+Merge: 564c27e 293ca79
+Author: Eliézer Zarpelão <eliezer@zarpsystem.com.br>
+Date:   Wed May 13 17:05:21 2020 -0300
+
+    Merge pull request #2 from elizarp/dev
+    
+    Dev
+
+[33mcommit 293ca79156e4a34dc651f5925a57f15572a84898[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: Eliezer Zarpelao <zarp_ezarpelao@orizon.com.br>
+Date:   Wed May 13 17:03:00 2020 -0300
+
+    Dados readme
+
+[33mcommit d73593e9f7568496de377a8d5c22ca67e04e4731[m
+Author: Eliezer Zarpelao <zarp_ezarpelao@orizon.com.br>
+Date:   Wed May 13 15:08:36 2020 -0300
+
+    README.MD
+
+[33mcommit 4f0e3baf1f5c0e2797b36cce51d3eb259eee8a5a[m
+Author: Eliezer Zarpelao <zarp_ezarpelao@orizon.com.br>
+Date:   Wed May 13 15:07:41 2020 -0300
+
+    Atualizacao PDF slides
+
+[33mcommit 7752efd2808c709b1c9f1a5017b396c0f163c0a1[m
+Author: Eliezer Zarpelao <zarp_ezarpelao@orizon.com.br>
+Date:   Wed May 13 14:53:58 2020 -0300
+
+    AutomatedUI.Tests
+
+[33mcommit bc4c2b4da0bd69f5c84bee809c9b9edc64294e2e[m
+Author: Eliezer Zarpelao <zarp_ezarpelao@orizon.com.br>
+Date:   Wed May 13 11:47:02 2020 -0300
+
+    Fix solution
+
+[33mcommit 57b43e7e6c965526399511ff0d5d323d14e23edd[m
+Author: Eliezer Zarpelao <zarp_ezarpelao@orizon.com.br>
+Date:   Wed May 13 11:19:43 2020 -0300
+
+    Adicionar Vaquinha.Tests.Common
+
+[33mcommit b80ed3c6fee8877c49dad2fd4ad2a799d46e40d1[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Tue May 12 23:12:35 2020 -0300
+
+    adicionado test hosting environment
+
+[33mcommit ae46578556d5af8dfa4a6d73a1f9ace1fea98fe2[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Tue May 12 22:47:47 2020 -0300
+
+    primerio integration tests
+
+[33mcommit 5409824a66fdb0770483a79b4be02100c5f40a71[m
+Author: Eliezer Zarpelao <zarp_ezarpelao@orizon.com.br>
+Date:   Tue May 12 17:23:50 2020 -0300
+
+    Integration Tests
+
+[33mcommit 9fd4f4bc9bacda458661425a994430d19348ebd8[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Mon May 11 10:16:35 2020 -0300
+
+    unit tests
+
+[33mcommit 961d579d9d175ce5a840825f474b0e034fea7244[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Mon May 11 10:10:46 2020 -0300
+
+    test
+
+[33mcommit 6bd32be1ee3f219b3560b089d3db7e07ab403f8a[m
+Author: Eliezer Zarpelao <zarp_ezarpelao@orizon.com.br>
+Date:   Mon May 11 09:56:19 2020 -0300
+
+    Unit Tests
+
+[33mcommit 1cd39e45b8471f727f8b2f9ecc18487588be805b[m
+Author: Eliezer Zarpelao <zarp_ezarpelao@orizon.com.br>
+Date:   Mon May 11 09:52:03 2020 -0300
+
+    Unit Testes
+
+[33mcommit e843860d351a3f46b142a6205cfe264a33e244fb[m
+Author: Eliezer Zarpelao <zarp_ezarpelao@orizon.com.br>
+Date:   Mon May 11 08:06:48 2020 -0300
+
+    Ajustes layout
+
+[33mcommit 626e0203bc48cad22fa7568d0a566b64044a99b3[m
+Author: Eliezer Zarpelao <zarp_ezarpelao@orizon.com.br>
+Date:   Mon May 11 01:40:56 2020 -0300
+
+    Carousel + Correcoes Layout
+
+[33mcommit e9d08aaac1e0361da6cd503b9b59f9424dbd8c37[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Sun May 10 22:32:38 2020 -0300
+
+    refactor
+
+[33mcommit 89fc7344fa1643a20de053e64556a1a973b57a1c[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Sun May 10 22:30:39 2020 -0300
+
+    removido projeto polen
+
+[33mcommit b396cc6f79179574b58939cbedc0e19a65cebb71[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Sun May 10 22:10:48 2020 -0300
+
+    adicionado unit tests project
+
+[33mcommit b4b50ab365a1a654e8483e4ace365c41d32abd51[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Sun May 10 22:07:07 2020 -0300
+
+    adicionado projetos de teste
+
+[33mcommit b4cc82cbc3754214d789d207c1c0461d1ce9a1c3[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Sun May 10 21:53:31 2020 -0300
+
+    refactor geral
+
+[33mcommit 6f97025badd4d56237b68133d34b4cf250c89986[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Sun May 10 21:13:26 2020 -0300
+
+    refactor geral
+
+[33mcommit 08845f78e8d48a020fa24c580ec6dc2e369afaa6[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Sun May 10 18:19:55 2020 -0300
+
+    adicionado jquery masks
+
+[33mcommit 36198d5421429d0eef2693b2191a08e8953f4c8a[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Sun May 10 15:04:26 2020 -0300
+
+    implementado tela de doadores
+
+[33mcommit 3edbcf361dc6a6bc5d15eae5a3163ae00613af8c[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Sun May 10 14:32:23 2020 -0300
+
+    adicionado toastr
+
+[33mcommit 357fe18cfc0c60a3b6fb9756dedd5d15a5dc9081[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Sun May 10 12:30:05 2020 -0300
+
+    crud doacao
+
+[33mcommit 384ca61ca9d4f36590ed9e29f8d87a23409098d8[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Sun May 10 11:50:57 2020 -0300
+
+    crud basico
+
+[33mcommit f94dfb8b6b837102b49cd90746af45dbe4b0005c[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Sun May 10 00:06:54 2020 -0300
+
+    home index
+
+[33mcommit 2755400137705c37ec552b800da071b80021ba24[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Sat May 9 23:29:06 2020 -0300
+
+    implementado inmemory database
+
+[33mcommit 28f951d6cd6d00be11f27556a46b236f042f4677[m
+Merge: 0028f4b 77a42f3
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Sat May 9 20:16:57 2020 -0300
+
+    Merge branch 'dev' of https://github.com/elizarp/dotnet-vaquinha-tests into dev
+
+[33mcommit 0028f4b64a4e5d1239fd8496468b2f5880e17745[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Sat May 9 20:12:41 2020 -0300
+
+    commit para projeto buildar
+
+[33mcommit ec07ec1f6bdb553b5ffdc4cfa0d06d00e9041f10[m[33m ([m[1;31morigin/refactor-estrutura-projeto[m[33m)[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Sat May 9 19:42:52 2020 -0300
+
+    adicionado IoC config
+
+[33mcommit 77a42f3a14e2c0b6b56ffc4b8b796cef35cddf69[m
+Merge: e035073 9758039
+Author: Eliézer Zarpelão <eliezer@zarpsystem.com.br>
+Date:   Sat May 9 19:18:49 2020 -0300
+
+    Merge pull request #1 from elizarp/refactor-estrutura-projeto
+    
+    refactor estrutura projeto
+
+[33mcommit 0f6079b2aaceb7b8bbf3466c1f703672708e33fe[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Sat May 9 19:18:46 2020 -0300
+
+    add migrations
+
+[33mcommit 9758039efe3ae7c8e6a5696167438bd414185ae0[m
+Author: freiremarcos <marcos.freire@zarpsystem.com.br>
+Date:   Sat May 9 18:20:15 2020 -0300
+
+    refactor estrutura projeto
+
+[33mcommit e0350732a5a1507825aff32ae5ba682784154039[m
+Author: Eliezer Zarpelao <zarp_ezarpelao@orizon.com.br>
+Date:   Thu May 7 12:19:41 2020 -0300
+
+    Initial Commit
+
+[33mcommit 564c27e08b514fd81cce004f31caaaa983549ccc[m
+Author: Eliézer Zarpelão <eliezer@zarpsystem.com.br>
+Date:   Wed May 6 08:58:55 2020 -0300
+
+    Initial commit
